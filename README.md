@@ -4,7 +4,7 @@ An Excel-based project simulating an Associate Analyst's work in **data validati
 
 ## Dashboard
 
-![Transaction Risk Dashboard](images/dashboard.png)
+![Transaction Risk Dashboard](dashboard.png)
 
 ## Project Overview
 
